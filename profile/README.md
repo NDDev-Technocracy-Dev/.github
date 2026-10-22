@@ -9,3 +9,5 @@ subscriptions
 and industrial solutions.
 
 [Visit NDDev](https://nddev.ai/dev)
+
+[Contact](mailto:danil@nddev.ai)
